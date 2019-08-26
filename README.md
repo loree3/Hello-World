@@ -1,4 +1,4 @@
 # Hello-World
 Programa inicial para aprender a usar git hub
 
-Modificacion que se hizo en la rama readme
+Cambio de manera local en el computador donde se clonó
